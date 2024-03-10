@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  appStroeSearch
+
+  Created by siyeon park on 2023/04/24.
+  
+*/
+
+"today_title" = "투데이";
+"app_title" = "앱";
+
+"down_title" = "받기";
+"in_app_purchase" = "앱 내 구입";
+
+"show_all_title" = "모두 보기";
+
+//MARK: App Detail
+"app_download_title" = "받기";
+"app_review_title" = "평가 및 리뷰";
+"app_new_feature" = "새로운 기능";
+"app_version_history" = "버전 기록";
+"app_support_lang" = "지원 언어";
+"app_support_lang_bottom" = "입니다.";
+"app_review_max_rate" = "(최고 5점)";
+"app_review_rate_count" = "개의 평가";
+
+//MARK: SearchVC
+"search_title" = "검색";
+"search_placeholder" = "게임, 앱, 스토리 등";
+"search_empty" = "검색 결과가 없습니다.";
+"search_history_empty" = "검색 내역이 없습니다.";
+
+//MARK: detailScreenShot
+"close_title" = "완료";
